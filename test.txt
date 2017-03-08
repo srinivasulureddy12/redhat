@@ -1,0 +1,5 @@
+# redhat
+# myprogram
+#!/bin/sh
+echo "hai"
+echo "hello"
